@@ -1,10 +1,5 @@
 ### Hi there! I'm Vince, a Data Engineer from the Philippines.  👋
 
-<!--
-**vincevertulfo/vincevertulfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on deepening my knowledge in data engineering especially in the cloud
 - 🌱 I’m currently learning Airflow, AWS, dbt.
 - 👯 I’m looking to collaborate on fun data pipeline projects.
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: josephvincevertulfo@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Ex-seminarian
--->
