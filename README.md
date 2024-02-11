@@ -50,6 +50,8 @@
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-BLOG-POST:START -->
+- [Deploying Python Applications for Free using Render](https://medium.com/@melbdataguy/deploying-python-applications-for-free-using-render-90d7a0442dd4?source=rss-53a9aa0bd4ce------2)
+- [SQL Server — Identifying Empty Tables](https://medium.com/@melbdataguy/sql-server-identifying-empty-tables-15813583adc7?source=rss-53a9aa0bd4ce------2)
 <!-- MEDIUM-BLOG-POST:END -->
 
 ## ⚡ Github Stats
