@@ -50,6 +50,9 @@
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-BLOG-POST:START -->
+- [Metadata-Driven Development in Azure Data Factory](https://melbdataguy.medium.com/metadata-driven-development-in-azure-data-factory-f8361fea1fd5?source=rss-53a9aa0bd4ce------2)
+- [CDC 101 in SQL Server for Data Engineers](https://melbdataguy.medium.com/understanding-cdc-101-in-sql-server-for-data-engineers-e647eafd92b8?source=rss-53a9aa0bd4ce------2)
+- [Displaying Self-Hosted Agents on Classic Release Pipeline &lpar;Azure DevOps&rpar;](https://melbdataguy.medium.com/displaying-self-hosted-agents-on-classic-release-pipeline-azure-devops-c453ecdde649?source=rss-53a9aa0bd4ce------2)
 - [Deploying Python Applications for Free using Render](https://melbdataguy.medium.com/deploying-python-applications-for-free-using-render-90d7a0442dd4?source=rss-53a9aa0bd4ce------2)
 - [SQL Server — Identifying Empty Tables](https://melbdataguy.medium.com/sql-server-identifying-empty-tables-15813583adc7?source=rss-53a9aa0bd4ce------2)
 <!-- MEDIUM-BLOG-POST:END -->
