@@ -50,11 +50,11 @@
 
 ## 📚 Latest Medium Stories
 <!-- MEDIUM-BLOG-POST:START -->
+- [10 Things I Like About Snowflake — from a SQL Server Migrant](https://melbdataguy.medium.com/10-things-i-like-about-snowflake-from-a-sql-server-migrant-28b6dd7dc592?source=rss-53a9aa0bd4ce------2)
 - [Metadata-Driven Development in Azure Data Factory](https://melbdataguy.medium.com/metadata-driven-development-in-azure-data-factory-f8361fea1fd5?source=rss-53a9aa0bd4ce------2)
 - [CDC 101 in SQL Server for Data Engineers](https://melbdataguy.medium.com/understanding-cdc-101-in-sql-server-for-data-engineers-e647eafd92b8?source=rss-53a9aa0bd4ce------2)
 - [Displaying Self-Hosted Agents on Classic Release Pipeline &lpar;Azure DevOps&rpar;](https://melbdataguy.medium.com/displaying-self-hosted-agents-on-classic-release-pipeline-azure-devops-c453ecdde649?source=rss-53a9aa0bd4ce------2)
 - [Deploying Python Applications for Free using Render](https://melbdataguy.medium.com/deploying-python-applications-for-free-using-render-90d7a0442dd4?source=rss-53a9aa0bd4ce------2)
-- [SQL Server — Identifying Empty Tables](https://melbdataguy.medium.com/sql-server-identifying-empty-tables-15813583adc7?source=rss-53a9aa0bd4ce------2)
 <!-- MEDIUM-BLOG-POST:END -->
 
 ## ⚡ Github Stats
