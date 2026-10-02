@@ -1,72 +1,41 @@
-### Hi there👋! I'm Vince, a passionate Data Engineer based in Melbourne. 🦘
+### hey, i'm vince 👋
 
-- 🔭 Always trying to learn new things everyday
-- 🤓 Data engineer trying to be fit 💪
-- 📫 How to reach me: josephvincevertulfo@gmail.com
+data engineer in melbourne. i build data platforms — mostly snowflake, fabric, databricks, dbt.
 
-## 💼 Technical Skills
+```yaml
+role:     lead data engineer
+focus:    platform architecture, migrations, pipeline frameworks, dataops
+scope:    solution design, tech leadership, client delivery
+cloud:    azure, aws, gcp
+exp:      7y+
+```
 
-**Programming Languages:**
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/Powershell-2CA5E0?style=flat&logo=powershell&logoColor=white)
+#### stack
 
-**Databases:**
-![](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)
-![](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![](https://img.shields.io/badge/-Fabric-117865?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-SQL-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Data Processing:**
-![](https://img.shields.io/badge/dbt-FF6F61?style=flat&logo=dbt&logoColor=white)
-![](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![](https://img.shields.io/badge/duckdb-F2C811?style=flat&logoColor=white)
+#### writing
 
-**Cloud:**
-![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-
-**Orchestration & ETL:**
-![Adf](https://img.shields.io/badge/Azure_Data_Factory-blue??style=flat&logo=microsoft-azure&logoColor=white)
-![](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-
-**Data Visualisation:**
-![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white)
-![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![](https://img.shields.io/badge/Looker-000000?style=flat&logo=looker&logoColor=white)
-
-**CI/CD:**
-![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
-![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-**Productivity:**
-![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-
-
-## 📚 Latest Medium Stories
 <!-- MEDIUM-BLOG-POST:START -->
-- [10 Things I Like About Snowflake — from a SQL Server Migrant](https://melbdataguy.medium.com/10-things-i-like-about-snowflake-from-a-sql-server-migrant-28b6dd7dc592?source=rss-53a9aa0bd4ce------2)
+- [10 Things I Like About Snowflake — from a SQL Server Migrant](https://melbdataguy.medium.com/10-things-i-like-about-snowflake-from-a-sql-server-migrant-28b6dd7dc592?source=rss-53a9aa0bd4ce------2)
 - [Metadata-Driven Development in Azure Data Factory](https://melbdataguy.medium.com/metadata-driven-development-in-azure-data-factory-f8361fea1fd5?source=rss-53a9aa0bd4ce------2)
 - [CDC 101 in SQL Server for Data Engineers](https://melbdataguy.medium.com/understanding-cdc-101-in-sql-server-for-data-engineers-e647eafd92b8?source=rss-53a9aa0bd4ce------2)
 - [Displaying Self-Hosted Agents on Classic Release Pipeline &lpar;Azure DevOps&rpar;](https://melbdataguy.medium.com/displaying-self-hosted-agents-on-classic-release-pipeline-azure-devops-c453ecdde649?source=rss-53a9aa0bd4ce------2)
 - [Deploying Python Applications for Free using Render](https://melbdataguy.medium.com/deploying-python-applications-for-free-using-render-90d7a0442dd4?source=rss-53a9aa0bd4ce------2)
 <!-- MEDIUM-BLOG-POST:END -->
 
-## ⚡ Github Stats
-[![Vince's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincevertulfo)](https://github.com/vincevertulfo/github-readme-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincevertulfo&show_icons=true&hide_border=true&layout=compact&hide_progress=true&langs_count=10"/>
+#### elsewhere
 
-
-<center>
-<a href="https://www.linkedin.com/in/vincevertulfo/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
- <a href="https://medium.com/@melbdataguy" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
-  </a>
-</center>
+[linkedin](https://www.linkedin.com/in/vincevertulfo/) · [medium](https://medium.com/@melbdataguy) · [email](mailto:josephvincevertulfo@gmail.com)
